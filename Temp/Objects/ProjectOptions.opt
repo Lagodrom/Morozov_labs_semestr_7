@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\Users\admin\SW\KRBO-04-20\laba1 (2)\laba1\Logical\"
+  TempDirectory="C:\Users\admin\SW\KRBO-04-20\laba1 (2)\laba1\Temp\"
+  AutomationStudioVersion="4.5.2.102"
+  AutomationStudioEdition="Standard"
+  CrossReference="false"
+  ActiveConfiguration="Config1"
+  CreateAnsiCDeclarations="false" />
