@@ -1,0 +1,6 @@
+VAR
+	stateMachine : EN_DoorStates := ST_INIT;
+	doorSM : FB_DoorStateMashine := (0);
+	motorSM : FB_DriveStateMashine := (0);
+	ledSM : FB_LedStateMashine := (0);
+END_VAR
