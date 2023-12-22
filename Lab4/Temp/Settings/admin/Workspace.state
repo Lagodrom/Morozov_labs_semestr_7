@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<State Top="0" Left="0" Width="0" Height="0" WindowState="Normal" xmlns="http://br-automation.co.at/AS/State">
+  <TextEdit ID="C:\Users\admin\Documents\KRBO-02-20\Coursework\coursework_Rectangle\Logical\CncProg\CncProg.cnc" CaretLine="7" CaretColumn="9" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TreeView ID="Logical\CncInit\CncInit.cns" EditColumn="0" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+    <Columns>
+      <Column Index="0" Width="100" Position="0" />
+      <Column Index="1" Width="100" Position="1" />
+      <Column Index="2" Width="50" Position="2" />
+      <Column Index="3" Width="50" Position="3" />
+    </Columns>
+    <ExpandedNodes>
+      <ExpandedNode Row="0" />
+      <ExpandedNode Row="1" />
+      <ExpandedNode Row="20" />
+      <ExpandedNode Row="21" />
+      <ExpandedNode Row="23" />
+      <ExpandedNode Row="25" />
+      <ExpandedNode Row="27" />
+      <ExpandedNode Row="30" />
+      <ExpandedNode Row="41" />
+      <ExpandedNode Row="42" />
+      <ExpandedNode Row="48" />
+      <ExpandedNode Row="63" />
+      <ExpandedNode Row="64" />
+      <ExpandedNode Row="75" />
+      <ExpandedNode Row="86" />
+      <ExpandedNode Row="97" />
+      <ExpandedNode Row="108" />
+      <ExpandedNode Row="119" />
+      <ExpandedNode Row="130" />
+      <ExpandedNode Row="141" />
+      <ExpandedNode Row="152" />
+      <ExpandedNode Row="163" />
+      <ExpandedNode Row="174" />
+      <ExpandedNode Row="185" />
+      <ExpandedNode Row="196" />
+      <ExpandedNode Row="207" />
+      <ExpandedNode Row="218" />
+      <ExpandedNode Row="229" />
+      <ExpandedNode Row="264" />
+      <ExpandedNode Row="265" />
+      <ExpandedNode Row="272" />
+      <ExpandedNode Row="273" />
+      <ExpandedNode Row="276" />
+      <ExpandedNode Row="277" />
+      <ExpandedNode Row="279" />
+      <ExpandedNode Row="280" />
+      <ExpandedNode Row="281" />
+      <ExpandedNode Row="285" />
+    </ExpandedNodes>
+    <SelectedNodes />
+    <ZoomIndices />
+  </TreeView>
+  <TreeView ID="Logical\AxisInit\AxInitAcp10.ax" EditColumn="0" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+    <Columns>
+      <Column Index="0" Width="100" Position="0" />
+      <Column Index="1" Width="100" Position="1" />
+      <Column Index="2" Width="50" Position="2" />
+      <Column Index="3" Width="50" Position="3" />
+    </Columns>
+    <ExpandedNodes>
+      <ExpandedNode Row="0" />
+      <ExpandedNode Row="1" />
+      <ExpandedNode Row="2" />
+      <ExpandedNode Row="8" />
+      <ExpandedNode Row="9" />
+      <ExpandedNode Row="11" />
+      <ExpandedNode Row="12" />
+      <ExpandedNode Row="15" />
+      <ExpandedNode Row="16" />
+      <ExpandedNode Row="32" />
+      <ExpandedNode Row="34" />
+      <ExpandedNode Row="41" />
+      <ExpandedNode Row="45" />
+      <ExpandedNode Row="54" />
+      <ExpandedNode Row="63" />
+      <ExpandedNode Row="72" />
+      <ExpandedNode Row="79" />
+      <ExpandedNode Row="86" />
+      <ExpandedNode Row="87" />
+      <ExpandedNode Row="88" />
+      <ExpandedNode Row="91" />
+      <ExpandedNode Row="94" />
+      <ExpandedNode Row="97" />
+      <ExpandedNode Row="100" />
+      <ExpandedNode Row="103" />
+      <ExpandedNode Row="105" />
+      <ExpandedNode Row="106" />
+      <ExpandedNode Row="121" />
+      <ExpandedNode Row="122" />
+      <ExpandedNode Row="129" />
+      <ExpandedNode Row="130" />
+      <ExpandedNode Row="131" />
+    </ExpandedNodes>
+    <SelectedNodes />
+    <ZoomIndices />
+  </TreeView>
+  <TreeView ID="C:\Users\admin\Documents\KRBO-02-20\Coursework\coursework_Rectangle\Logical\Global.var" EditColumn="1" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+    <Columns>
+      <Column Index="0" Width="103" Position="0" />
+      <Column Index="1" Width="100" Position="1" />
+      <Column Index="2" Width="0" Position="2" />
+      <Column Index="3" Width="98" Position="3" />
+      <Column Index="4" Width="50" Position="4" />
+      <Column Index="5" Width="112" Position="5" />
+      <Column Index="6" Width="100" Position="6" />
+      <Column Index="7" Width="200" Position="7" />
+      <Column Index="8" Width="0" Position="8" />
+      <Column Index="9" Width="0" Position="9" />
+      <Column Index="10" Width="0" Position="10" />
+    </Columns>
+    <ExpandedNodes />
+    <SelectedNodes>
+      <SelectedNode Row="0" />
+    </SelectedNodes>
+    <ZoomIndices />
+  </TreeView>
+</State>

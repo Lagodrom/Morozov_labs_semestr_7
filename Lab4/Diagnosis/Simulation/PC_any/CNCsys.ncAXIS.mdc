@@ -1,0 +1,33 @@
+i»?<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<Diagnosis ConnectionString='NCMGR="ARNC0";NCVER="5021";IFTYP="";NCOBJNAM="CNCsys";OBJTYP="ncCNCSYS";CHL="1";ADDR="ST0";IP_MOD="CNC Init";DIAG_FILE_PATH="C:\Users\admin\Documents\KRBO-02-20\Coursework\coursework_Rectangle\Diagnosis\Simulation\PC_any\CNCsys.mdc";'>
+<Watch>
+  <Row Parameter="monitor.s_set[0]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[1]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[2]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[3]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[4]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[5]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[6]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[7]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[8]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[9]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[10]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[11]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[12]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[13]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.s_set[14]" Value="0" Unit="Units" />
+  <Row Parameter="monitor.v_path" Value="0" Unit="Units/min" />
+  <Row Parameter="monitor.nr_ncprog" Value="0" />
+  <Row Parameter="message.count.error" Value="=0" />
+  <Row Parameter="message.record.errorclass" Value="Errorclass" />
+</Watch>
+<Action>
+  <Row Subject="ncBLOCK" Action="ncSTART" />
+  <Row Subject="ncGLOBAL" Action="ncINIT" />
+  <Row Subject="ncPROGRAM" Action="ncSTART" TraceEnabled="true" />
+  <Row Subject="ncSIMULATION" Action="ncSWITCH_OFF" />
+  <Row Subject="ncSIMULATION" Action="ncSWITCH_ON" />
+  <Row Subject="ncSKIP_FCN" Action="ncSW_ON" />
+</Action>
+</Diagnosis>
