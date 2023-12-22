@@ -1,0 +1,13 @@
+{
+  global:
+    FB_Axis;
+    FB_Controller;
+    FB_Endswitch;
+    FB_Integrator;
+    FB_Motor;
+    FB_move;
+    FB_power;
+    FB_Trajectory;
+  local:
+    *;
+ };
